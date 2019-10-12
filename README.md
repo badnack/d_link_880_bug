@@ -1,4 +1,4 @@
-# Finding bugs firmware D-Link 880 (CVE-2017-14948)
+# Finding bugs in the D-Link 880 firmware (CVE-2017-14948)
 
 In this brief blogpost I will explain a bug I found in the firmware D-Link 880 v1.08B04 (CVE-2017-14948).
 
